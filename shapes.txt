@@ -3,4 +3,3 @@ oval
 rectangle
 square
 triangle
-trapezium
